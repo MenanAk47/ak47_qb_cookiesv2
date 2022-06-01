@@ -49,6 +49,13 @@ Config.FarmingMultiItems = {
                 available = 20,                                 -- available in stock
                 regeneration = 60,                              -- in second
             },
+            ['vape'] = {
+                name = 'Vape',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
             ['grabba_leaf'] = {
                 name = 'Grabba Leaf',                      -- item name
                 price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money

@@ -83,7 +83,7 @@ Config.Shop = {
                 }
             },
             gary_payton = {                 -- The item ID
-                name = "Hary Payton",       -- The item display name
+                name = "Gary Payton",       -- The item display name
                 page = 1,                    -- Set on which page this item will appear
                 process = {
                     required = {
@@ -191,7 +191,7 @@ Config.Shop = {
                 }
             },
             pink_sandy = {                    -- The item ID
-                name = "Oink Sandy",          -- The item display name
+                name = "Pink Sandy",          -- The item display name
                 page = 1,                    -- Set on which page this item will appear
                 process = {
                     required = {
@@ -323,7 +323,7 @@ Config.Shop = {
                 }
             },
             froties = {                    -- The item ID
-                name = "Froties",          -- The item display name
+                name = "Frosties",          -- The item display name
                 page = 1,                    -- Set on which page this item will appear
                 process = {
                     required = {
